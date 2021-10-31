@@ -16,3 +16,6 @@ At the second submission, I failed to do the data cleansing properly and create 
 
 ### Fifth submission
 Turning the model back to XGBoost and hyperparameters tuning. The score is 0.13943 ranked 41.5%.
+
+### Sixth submission
+This is the final submission I heard, which using **neural network**. The score is 0.14520, which is not bad at all given neural network works well in large amount of dataset but not like this case (Only 1.4k data).
